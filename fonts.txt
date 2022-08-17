@@ -1,0 +1,10 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fasthand&family=Merriweather&family=Montserrat+Alternates&family=Sacramento&display=swap" rel="stylesheet">
+
+
+for css
+font-family: 'Fasthand', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Sacramento', cursive;
